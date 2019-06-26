@@ -1,0 +1,85 @@
+body{
+  background-color: grey;
+}
+header,nav,footer{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+   width: 980px;
+   padding-top: 35px;
+   height: 65px;
+   font-size: 30px;
+    text-align: center;
+    background: white;
+}
+.body{
+  
+  margin: 0 auto;
+  width: 980px;
+  height: auto;
+  margin-top: 20px;
+  display: block;
+  
+}
+.body section{
+  float: left;
+  width: 550px;
+  height: 380px;
+  text-align: center;
+  background: white;
+  
+}
+.body section .head{
+  background: white;
+  width: 530px;
+  height: 60px;
+  font-size: 25px;
+  margin-top: 10px;
+  padding-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.body section article{
+  width: 530px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  background-color: grey;
+}
+.body section article .article{
+  width: 510px;
+  height: 38px;
+  font-size: 25px;
+  padding-top: 12px;
+  background-color: grey;
+  margin-left: auto;
+  margin-right: auto;
+}
+.body section article h1,.body section article p{
+  width: 510px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 53px;
+  font-size: 22px;
+  padding-top: 27px;
+  background: #ebebeb;
+}
+.body aside{
+  text-align: center;
+  padding-top: 40px;
+  float: left;
+  width: 410px;
+  margin-left: 20px;
+  height: 340px;
+  font-size: 30px;
+  background: white;
+}
+footer{
+  position: relative;
+  clear: both;
+  top: 20px;
+}
+
